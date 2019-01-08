@@ -8,7 +8,7 @@
 
     <groupId>org.bitstrings.maven.plugins.ext</groupId>
     <artifactId>maven-jaxb2-plugin-catalogresolver</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
 
     <name>maven-jaxb2-plugin-catalogresolver</name>
 
