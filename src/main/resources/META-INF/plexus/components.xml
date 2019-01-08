@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component-set>
+    <components>
+        <component>
+            <role>org.jvnet.jaxb2.maven2.resolver.tools.MavenCatalogResolver</role>
+            <role-hint>maven-jaxb2-plugin-catalogresolver</role-hint>
+            <implementation>org.jvnet.jaxb2.maven2.resolver.tools.MavenCatalogResolver</implementation>
+            <isolated-realm>false</isolated-realm>
+            <lifecycle-handler>bootstrap</lifecycle-handler>
+            <instantiation-strategy>per-lookup</instantiation-strategy>
+        </component>
+    </components>
+</component>
+
